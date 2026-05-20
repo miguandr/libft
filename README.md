@@ -176,9 +176,3 @@ libft/
 │
 └── obj/                         (generated)
 ```
-
----
-
-## Author
-
-**Miguel Andrade** — [@miguandr](https://github.com/miguandr) — 42 Berlin
